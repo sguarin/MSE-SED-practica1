@@ -21,7 +21,7 @@ Para fedora/centos/redhat ejecutar:
   ```
   platformio platform install espressif32
   ```
-## Instalar plataforma para ESP8266 (ESP12 o superior) en caso de ser necesario
+## Instalar plataforma para ESP8266 en caso de ser necesario
   ```
   platformio platform install espressif8266
   ```
