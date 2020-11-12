@@ -28,7 +28,7 @@ Para fedora/centos/redhat ejecutar:
 # Como empezar un desarrollo de cero
 
 ## Inicializar proyecto para ESP12
-Ademas de la plataforma existe soporte y mapeo de pines para varias placas. Por ej para ESP12 dentro de la plataforma espressiff8266 se utiliza el id nodemcuv2. Para ESP32 esp32dev
+Ademas de la plataforma existe soporte y mapeo de pines para varias placas. Por ej para ESP12E dentro de la plataforma espressiff8266 se utiliza el id nodemcuv2. Para ESP32 esp32dev. Para ESP01 esp01 (512k) o esp01_1m (1M), 
 
   ```
   mkdir -p MSE-SED-prueba
