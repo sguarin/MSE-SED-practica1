@@ -66,13 +66,13 @@ Editar upload_port en platformio.ini de acuerdo al FTDI utilizado y placa utiliz
 ## Flash firmware
 
   ```
-  platformio run  --environment esp8266_development --upload_port /dev/ttyUSB0
+  platformio run --target upload --environment esp8266_development --upload_port /dev/ttyUSB0
   ```
 
 o
 
   ```
-  platformio run  --environment esp32_development --upload_port /dev/ttyUSB0
+  platformio run --target upload --environment esp32_development --upload_port /dev/ttyUSB0
   ```
 
 ## Chequear sanidad de codigo
